@@ -8,11 +8,6 @@ Tool untuk mengompres PDF dan gambar dengan mudah.
 - Pilihan kualitas kompresi
 - Batch processing
 
-## Instalasi
-1. Download installer
-2. Double click untuk install
-3. Ikuti wizard instalasi
-
 ## Penggunaan
 1. Buka aplikasi
 2. Pilih folder output
