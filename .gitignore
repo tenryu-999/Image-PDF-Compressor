@@ -1,16 +1,18 @@
 # Build outputs
-dist/
-build/
-*.exe
-*.spec
+dist/               
+build/              
+*.exe              
+*.spec            
 
 # Python
-__pycache__/
-*.py[cod]
-*$py.class
+__pycache__/       
+*.py[cod]         
+*$py.class         
 
-# PyInstaller
-*.manifest
+# IDE - Visual Studio Code
+.vscode/           
+*.code-workspace  
 
-# VS Code
-.vscode/
+# Project specific
+version.txt        
+output/            
